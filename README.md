@@ -1,6 +1,6 @@
 O projeto desenvolvido como parte do curso de desenvolvimento de sistemas é uma calculadora de IMC (Índice de Massa Corporal). Atualmente, não possui integração com banco de dados, pois este aspecto será abordado no segundo módulo do curso. A funcionalidade principal é acessada pelo formulário do professor, onde os dados dos alunos são cadastrados.
 
-Quando todos os dados necessários são inseridos (nome, idade, sexo, altura, peso, medida do abdome e nível de atividade física), a calculadora utiliza essas informações para calcular o IMC do aluno. Além disso, com base no nível de atividade física selecionado, são fornecidas recomendações personalizadas:
+Quando todos os dados necessários são inseridos (nome, idade, sexo, altura, peso, medida do abdomen e nível de atividade física), a calculadora utiliza essas informações para calcular o IMC do aluno. Além disso, com base no nível de atividade física selecionado, são fornecidas recomendações personalizadas:
 
 Peso Ideal: Com base no IMC calculado, são exibidas recomendações sobre o peso ideal para o aluno.
 Quantidade de Calorias Ideais: São fornecidas orientações sobre a quantidade ideal de calorias diárias a serem consumidas de acordo com o perfil do aluno.
